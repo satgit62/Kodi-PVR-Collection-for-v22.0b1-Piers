@@ -1,4 +1,4 @@
-# Kodi-PVR-Collection-for-v22.0b1-Piers Compiled for LG webOS
+# Kodi-PVR-Client-for-v22.0b1-Piers Compiled for LG webOS
 Various PVRs for webOS KODI v22.0b1-Piers
 
 The following PVRs are available:
