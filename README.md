@@ -5,7 +5,7 @@ The following PVRs are available:
 *  pvr.hts-22.8.2 (Tvheadend PVR)
 *  pvr.iptvsimple-22.6.4 (IPTV Simple Client)
 *  pvr.stalker-22.2.5 (Stalker Client)
-*  pvr.vuplus_22.3.6 (Enigma2 PVR client)
+*  pvr.vuplus_22.3.6 (Enigma2 PVR Client) - requires the “inputstream.ffmpegdirect” file to be preinstalled
 
 Default add-ons for the Kodi Media Center
 *  inputstream.adaptive
